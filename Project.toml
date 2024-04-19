@@ -1,0 +1,12 @@
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+DBInterface = "a10d1c49-ce27-4219-8d33-6db1a4562965"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Debugger = "31a5f54b-26ea-5ae9-a837-f05ce5417438"
+Infiltrator = "5903a43b-9cc3-4c30-8d17-598619ec4e9b"
+JET = "c3a54625-cd67-489e-a8e7-0a5a0ff4e31b"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+SearchNetworks = "17666995-d420-48ac-8d7c-8a155fef8e5d"
+UTCGP = "956831e1-0a7a-492a-ae16-058c6128a9f2"
+UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
