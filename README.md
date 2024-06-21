@@ -10,6 +10,7 @@ I will make updates to this repo to show showing the results.
 
 ## Publication
 
+```
 @InProceedings{mageps,
   author="Camilo De La Torre et al.",
   editor="B{\"a}ck, Thomas and Preuss, Mike and Deutz, Andr{\'e} and Wang, Hao and Doerr, Carola and Emmerich, Michael and Trautmann, Heike",
@@ -18,3 +19,4 @@ I will make updates to this repo to show showing the results.
   year="2024",
   publisher="Springer International Publishing",
 }
+```
