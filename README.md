@@ -6,7 +6,7 @@ The package [SearchNetworks.jl](https://github.com/camilodlt/SearchNetworks.jl) 
 
 The experiments published in the paper were run with the MAGE.jl package at this [commit](https://github.com/camilodlt/MAGE.jl/commit/a2373d1cbcd3dbad70bd37ec91acca00719391aa) in the history.
 
-I will make updates to this repo to show showing the results.
+I will make updates to this repo showing the results.
 
 ## Publication
 
