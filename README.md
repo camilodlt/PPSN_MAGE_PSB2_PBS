@@ -12,7 +12,7 @@ I will make updates to this repo showing the results.
 
 ### Experimental parameters
 
-![]("assets/exp.png")
+![](assets/exp.png)
 
 ### Solved problems
 
