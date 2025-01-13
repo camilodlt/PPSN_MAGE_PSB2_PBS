@@ -16,13 +16,13 @@ I will make updates to this repo showing the results.
 
 ### Solved problems
 
-![]("assets/solved1.png")
-![]("assets/solved2.png")
+![](assets/solved1.png)
+![](assets/solved2.png)
 
 ### Convergence Results
 
-![]("assets/conv1.png")
-![]("assets/conv2.png")
+![](assets/conv1.png)
+![](assets/conv2.png)
 
 ## Publication
 
