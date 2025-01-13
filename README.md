@@ -8,6 +8,22 @@ The experiments published in the paper were run with the MAGE.jl package at this
 
 I will make updates to this repo showing the results.
 
+## Appendix
+
+### Experimental parameters
+
+![]("assets/exp.png")
+
+### Solved problems
+
+![]("assets/solved1.png")
+![]("assets/solved2.png")
+
+### Convergence Results
+
+![]("assets/conv1.png")
+![]("assets/conv2.png")
+
 ## Publication
 
 ```
